@@ -10,7 +10,7 @@ Ensure you have the required dependencies installed (e.g., `streamlit`, `yfinanc
 
 ## The DRIVER Workflow Summary
 This application was rapidly prototyped and structurally validated using the **DRIVER** methodology:
-
+Link to repository: https://github.com/CinderZhang/driver-plugin
 ### DEFINE & REPRESENT
 Outlined the intent to merge two standalone Python projects (Project 1: DCF Valuation + Project 2: Portfolio Optimization) by tying them together with a global Macro UI. Conceptualized "Cross-Component Sensitivity" where the global Risk-Free Rate natively dictates both base WACC and optimal covariance weighting. This was codified in a strict 4-step buildable roadmap.
 
